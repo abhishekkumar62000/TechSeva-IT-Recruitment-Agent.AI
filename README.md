@@ -6,7 +6,7 @@
 
 3.  run you project
 
- streamlit run app.py
+ streamlit run app.py 
  
 
 
