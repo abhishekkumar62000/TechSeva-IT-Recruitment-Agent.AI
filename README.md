@@ -3,7 +3,7 @@
 1. activate env lang3
 
 2. pip install - r requirements.txt 
-
+ 
 3.  run you project 
 
  streamlit run app.py 
